@@ -2,45 +2,20 @@
   "title": "Skills",
   "list": [
     {
-      "name": "Soft skill",
-      "descriptions": ["I like to talk"]
+      "name": "프로그래밍 언어",
+      "descriptions": ["Javascript", "Typescript", "Java", "Python"]
     },
     {
-      "name": "HTML/CSS",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio."
-      ]
+      "name": "프레임워크 & 라이브러리",
+      "descriptions": ["React", "React-Native", " Next.js", " Recoil", "Spring", " Android"]
     },
     {
-      "name": "JavaScript",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-      ]
+      "name": "DB & 서버",
+      "descriptions": ["MySQL", "Firebase"]
     },
     {
-      "name": "TypeScript",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio ut voluptatem praesentium."
-      ]
-    },
-    {
-      "name": "Dev Ops",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-      ]
-    },
-    {
-      "name": "ETC",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-      ]
+      "name": "others",
+      "descriptions": ["Git", "AWS", "Slack", "Notion"]
     }
   ]
 }

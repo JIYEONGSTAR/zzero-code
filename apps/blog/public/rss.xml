@@ -6,10 +6,10 @@
     version="2.0"
   >
     <channel>
-        <title><![CDATA[Comet log]]></title>
+        <title><![CDATA[JIYEONGSTAR]]></title>
         <link>https://comet-land-blog.vercel.app</link>
         <description>
-          <![CDATA[I like to share my knowledge.]]>
+          <![CDATA[소통하기 좋아하는 프론트엔드 개발자]]>
         </description>
         <language>en</language>
         <lastBuildDate>2022-03-26</lastBuildDate>
