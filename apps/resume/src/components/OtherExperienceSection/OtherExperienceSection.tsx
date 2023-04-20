@@ -6,7 +6,6 @@ function OtherExperienceSection({ title, list }: IOtherExperience) {
   return (
     <Section>
       <h2>{title}</h2>
-
       {list.map((experience, index) => (
         <Experience key={index} {...experience} />
       ))}

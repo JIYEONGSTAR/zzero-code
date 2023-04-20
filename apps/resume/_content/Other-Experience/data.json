@@ -1,6 +1,18 @@
 {
-  "title": "Prize",
+  "title": "Other-Experience",
   "list": [
+    {
+      "title": {
+        "text": "동아리 개발자들",
+        "githubLink": "https://github.com/dogVelopers",
+        "otherLink": null
+      },
+      "position": "FE",
+      "description": "https://github.com/dogVelopers",
+      "startDate": "2020.08",
+      "endDate": "2021.03",
+      "which": ["Frontend 스터디 수강 및 프로젝트 진행"]
+    },
     {
       "title": {
         "text": "교내 IT경진대회 은상, 인기상(2019), 창업경진대회  - WORDATA",
@@ -10,7 +22,7 @@
       "position": "Frontend 개발자",
       "startDate": "2019",
       "endDate": "2019",
-      "description": "",
+      "description": "외국어 정보 학습자를 위한 국내최초 문서 텍스트 데이터 마이닝과 인공지능(RNN)모델 활용 단어장 자동 생성 웹/앱 서비스 플랫폼",
       "which": []
     },
     {
@@ -22,8 +34,8 @@
       "position": "Frontend 개발자",
       "startDate": "2021",
       "endDate": "2021",
-      "description": "",
-      "which": []
+      "description": "전공 서적 대여 서비스",
+      "which": ["Redux를 활용한 데이터 관리"]
     },
     {
       "title": {

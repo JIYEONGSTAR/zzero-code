@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import styled from '@emotion/styled';
 import { config, NextUITheme, useTheme } from '@nextui-org/react';
 
@@ -13,7 +14,17 @@ function Company({ name, position, startDate, endDate, description }: Omit<IComp
         {startDate} ~ {endDate}
       </small>
       <span>{position}</span>
-      <P theme={theme}>{description}</P>
+      <Div theme={theme}>
+        {typeof description === 'object' ? (
+          description.map(el => (
+            <div>
+              <Link href={el}>{el}</Link>
+            </div>
+          ))
+        ) : (
+          <Link href={description}>{description}</Link>
+        )}
+      </Div>
     </CompanyCard>
   );
 }
@@ -35,6 +46,13 @@ const CompanyCard = styled.div`
   }
 `;
 
-const P = styled.p<{ theme: NextUITheme | undefined }>`
+const Div = styled.div<{ theme: NextUITheme | undefined }>`
   color: ${({ theme }) => theme.colors.accents6.value};
+
+  > a,
+  > div > a {
+    text-decoration: underline;
+    color: gray;
+    font-size: 0.8rem;
+  }
 `;

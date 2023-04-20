@@ -1,12 +1,12 @@
 {
-  "title": "프로젝트",
+  "title": "PROJECTS",
   "list": [
     {
-      "name": "성공회대학교",
+      "name": "SKHUMEET",
       "position": "Web Developer",
-      "startDate": "2018.03",
-      "endDate": "",
-      "description": "성공회대학교 IT융합자율학부",
+      "startDate": "2023.03",
+      "endDate": "2023.04",
+      "description": ["https://github.com/SKHUMEET/skhumeet-frontend", "https://skhumeet.vercel.app/"],
       "projects": [
         {
           "title": {
@@ -15,8 +15,8 @@
             "otherLink": "https://skhumeet.vercel.app/"
           },
           "description": "성공회대학교 학생 활동 팀 빌딩 및 커뮤니티 서비스",
-          "startDate": "2023.03",
-          "endDate": "2023.04",
+          "startDate": "",
+          "endDate": "",
           "which": [
             "Custom Editor를 만들어 게시글 추가",
             "React-Qeury로 비동기 관리",
@@ -24,18 +24,36 @@
             "게시글, 댓글, 북마크 등 커뮤니티적 요소"
           ],
           "techStack": ["TypeScript", "Next.js", "Styled-Components", "React-Query", "vercel"]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Mealti",
+      "position": "Web Developer",
+      "startDate": "2022.09",
+      "endDate": "2022.12",
+      "description": "https://github.com/JIYEONGSTAR/mealti",
+      "projects": [
         {
           "title": {
             "text": "캡스톤프로젝트 - Mealti",
             "githubLink": "https://github.com/JIYEONGSTAR/mealti"
           },
           "description": "나만의 식비 가계부",
-          "startDate": "2022.9",
-          "endDate": "2022.12",
+          "startDate": "",
+          "endDate": "",
           "which": ["Firebase 로그인", "시작 일 조절 가능한 가계부", "여러 사용자 간 레시피 공유 가능"],
           "techStack": ["TypeScript", "Next.js", "Styled-Components", "React-Query", "Firebase"]
-        },
+        }
+      ]
+    },
+    {
+      "name": "DAERKOOB",
+      "position": "Web Developer,PM",
+      "startDate": "2021.09",
+      "endDate": "2022.14",
+      "description": "https://github.com/JIYEONGSTAR/daerkoob_front",
+      "projects": [
         {
           "title": {
             "text": "DAERKOOB",
@@ -43,20 +61,29 @@
             "otherLink": null
           },
           "description": "책 읽고 리뷰와 필사를 남기는 사이트",
-          "startDate": "2021.09",
-          "endDate": "2022.04",
+          "startDate": null,
+          "endDate": null,
           "which": ["FE Leading", "리뷰, 필사 작성 및 댓글 작성", "친구 추가 기능", "잔디달력으로 등록한 날 확인"],
           "techStack": ["React", "Redux", "SCSS"]
-        },
+        }
+      ]
+    },
+    {
+      "name": "ACCOUNT_BOOK",
+      "position": "Web Developer",
+      "startDate": "2022.10",
+      "endDate": "2022.12",
+      "description": "https://github.com/JIYEONGSTAR/android_account_book",
+      "projects": [
         {
           "title": {
-            "text": "DAERKOOB",
+            "text": "ANDROID_ACCOUNT_BOOK",
             "githubLink": "https://github.com/JIYEONGSTAR/android_account_book",
             "otherLink": null
           },
           "description": "외식과 집밥으로 나뉘어 식비 기록과 통계를 할 수 있는 커스텀 가계부",
-          "startDate": "2022.10",
-          "endDate": "2022.12",
+          "startDate": "",
+          "endDate": "",
           "which": [
             "materialCalendarView를 사용하여 캘린더 커스텀",
             "Firebase를 사용한 database관리",
@@ -64,28 +91,6 @@
             "Date picker뿐 아니라 년도와 월만 선택 가능한 picker구현"
           ],
           "techStack": ["JAVA", "Android"]
-        }
-      ]
-    },
-    {
-      "name": "개발자들",
-      "position": "Web Developer",
-      "startDate": "2019.08",
-      "endDate": "2022.03",
-      "description": "교내 개발 동아리",
-      "projects": [
-        {
-          "title": {
-            "text": "개발자들",
-            "githubLink": "https://github.com/dogVelopers",
-            "otherLink": null
-          },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.08",
-          "endDate": "2021.03",
-          "which": ["Frontend 스터디 수강 및 프로젝트 진행"],
-          "techStack": ["JavaScript", "TypeScript", "React", "Recoil", "Redux"]
         }
       ]
     }

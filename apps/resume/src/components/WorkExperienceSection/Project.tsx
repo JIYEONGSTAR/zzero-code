@@ -12,7 +12,7 @@ function Project({ title, description, startDate, endDate, which, techStack }: I
     <Div>
       <TitleTooltip {...title} />
       <small>
-        {startDate} ~ {endDate}
+        {startDate} {startDate && '~'} {endDate}
       </small>
       <span>{description}</span>
       {which.length > 0 && (

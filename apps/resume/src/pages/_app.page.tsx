@@ -8,6 +8,7 @@ import { authorName } from 'core/constants';
 import { KBarProvider } from 'kbar';
 
 import ContactButton from '../components/ContactButton';
+import DownloadButton from '../components/DownloadButton';
 import generateKbarAction from '../libs/KbarActions';
 
 const KbarComponent = dynamic(() => import('core/components/Kbar'), {
@@ -27,6 +28,7 @@ export default function ResumeApp({ Component, pageProps }: AppProps) {
           <KbarComponent />
           <Component {...pageProps} />
           <ContactButton />
+          <DownloadButton />
         </KBarProvider>
       </NextUIProvider>
     </NextThemesProvider>
