@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://resume.jadecode.xyz//sitemap.xml
+Sitemap: https://resume.jadecode.xyz/sitemap.xml

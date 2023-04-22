@@ -3,6 +3,28 @@
   "list": [
     {
       "title": {
+        "text": "성공회대학교",
+        "githubLink": "",
+        "otherLink": null
+      },
+      "description": "소프트웨어공학, 컴퓨터공학 복수전공",
+      "startDate": "2018.03",
+      "endDate": "",
+      "which": ["IT융합자율학부로 입학하여 4년간 공부하여 컴퓨터사이언스에 관한 전반적인 지식을 배웠습니다."]
+    },
+    {
+      "title": {
+        "text": "Blog",
+        "githubLink": "",
+        "otherLink": "https://jiyeongstar.tistory.com/"
+      },
+      "description": "개발블로그, https://jiyeongstar.tistory.com/",
+      "startDate": "",
+      "endDate": "",
+      "which": ["비정기적으로 포스팅하며, 제가 새롭게 배우고 알게 된 지식을 공유하기 위한 공간입니다."]
+    },
+    {
+      "title": {
         "text": "동아리 개발자들",
         "githubLink": "https://github.com/dogVelopers",
         "otherLink": null
@@ -11,7 +33,7 @@
       "description": "https://github.com/dogVelopers",
       "startDate": "2020.08",
       "endDate": "2021.03",
-      "which": ["Frontend 스터디 수강 및 프로젝트 진행"]
+      "which": ["Frontend 스터디 수강 및 프로젝트 진행했습니다."]
     },
     {
       "title": {
