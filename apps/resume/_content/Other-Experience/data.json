@@ -4,72 +4,42 @@
     {
       "title": {
         "text": "성공회대학교",
-        "githubLink": "",
+        "githubLink": null,
         "otherLink": null
       },
       "description": "소프트웨어공학, 컴퓨터공학 복수전공",
       "startDate": "2018.03",
-      "endDate": "",
-      "which": ["IT융합자율학부로 입학하여 4년간 공부하여 컴퓨터사이언스에 관한 전반적인 지식을 배웠습니다."]
+      "endDate": "2023.08(졸업예정)",
+      "which": ["IT융합자율학부로 입학하여 컴퓨터사이언스에 관한 전반적인 지식을 배웠습니다."]
     },
     {
       "title": {
         "text": "Blog",
-        "githubLink": "",
-        "otherLink": "https://jiyeongstar.tistory.com/"
-      },
-      "description": "개발블로그, https://jiyeongstar.tistory.com/",
-      "startDate": "",
-      "endDate": "",
-      "which": ["비정기적으로 포스팅하며, 제가 새롭게 배우고 알게 된 지식을 공유하기 위한 공간입니다."]
-    },
-    {
-      "title": {
-        "text": "동아리 개발자들",
-        "githubLink": "https://github.com/dogVelopers",
+        "githubLink": null,
         "otherLink": null
       },
-      "position": "FE",
-      "description": "https://github.com/dogVelopers",
-      "startDate": "2020.08",
-      "endDate": "2021.03",
-      "which": ["Frontend 스터디 수강 및 프로젝트 진행했습니다."]
-    },
-    {
-      "title": {
-        "text": "교내 IT경진대회 은상, 인기상(2019), 창업경진대회  - WORDATA",
-        "githubLink": "",
-        "otherLink": ""
-      },
-      "position": "Frontend 개발자",
-      "startDate": "2019",
-      "endDate": "2019",
-      "description": "외국어 정보 학습자를 위한 국내최초 문서 텍스트 데이터 마이닝과 인공지능(RNN)모델 활용 단어장 자동 생성 웹/앱 서비스 플랫폼",
-      "which": []
-    },
-    {
-      "title": {
-        "text": "교내 제13회 소프트웨어경진대회 저학년트랙 1위, 인기상 - SHARE_BILLAGE",
-        "githubLink": "",
-        "otherLink": ""
-      },
-      "position": "Frontend 개발자",
-      "startDate": "2021",
-      "endDate": "2021",
-      "description": "전공 서적 대여 서비스",
-      "which": ["Redux를 활용한 데이터 관리"]
-    },
-    {
-      "title": {
-        "text": "교내 제14회 소프트웨어경진대회 전체 트랙 2위 - DAERKOOB",
-        "githubLink": "",
-        "otherLink": ""
-      },
-      "position": "Frontend 개발자",
+      "description": "개발블로그 ",
       "startDate": "2022",
-      "endDate": "2022",
-      "description": "책 읽고 리뷰와 필사를 남기는 사이트",
-      "which": []
+      "endDate": "",
+      "which": [
+        "https://jiyeongstar.tistory.com/",
+        "비정기적으로 포스팅하며, 제가 새롭게 배우고 알게 된 지식을 공유하기 위한 공간입니다."
+      ]
+    },
+    {
+      "title": {
+        "text": "학과TA",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "",
+      "description": "21년도 2학기와 22년도 2학기에 학과 TA를 맡았습니다.",
+      "startDate": "2021.09",
+      "endDate": "2022.12",
+      "which": [
+        "21년 2학기에는 C언어 프로그래밍과 자료구조(JAVA) 수업에 대한 과제 채점 및 학생들의 질문에 답변하며 강의 보조를 담당하였습니다.",
+        "22년 2학기에는 데이터 분석 입문 수업에 대한 과제 채점 및 학생들의 질문에 답변하며 강의 보조를 담당하였습니다."
+      ]
     }
   ]
 }
