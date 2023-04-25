@@ -1,6 +1,7 @@
 type ColorType = string | null;
-// '#f0932b', '#ffbe76', '#f1c40f', '#f6e58d';
-export const lightPrimary: ColorType = '#f1c40f';
+// 'f1c40f",'#f0932b', '#ffbe76', '#f1c40f', '#f6e58d';
+//#FEDC56, #FFC107, #FFA000
+export const lightPrimary: ColorType = '#ffc107';
 export const lightSelection: ColorType = '#f0932b';
 export const lightCode: ColorType = '#ffbe76';
 export const lightCodeLight: ColorType = '#f6e58d';
