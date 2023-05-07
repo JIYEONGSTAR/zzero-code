@@ -34,7 +34,7 @@
       "position": "Web Developer",
       "startDate": "2022.09",
       "endDate": "",
-      "description": "https://github.com/JIYEONGSTAR/mealti",
+      "description": ["https://github.com/JIYEONGSTAR/mealti", "https://mealti-38fed.web.app/"],
       "projects": [
         {
           "title": {
@@ -58,16 +58,18 @@
         {
           "title": {
             "text": "Mealti-Web",
-            "githubLink": "https://github.com/JIYEONGSTAR/mealti"
+            "githubLink": "https://github.com/JIYEONGSTAR/mealti",
+            "otherLink": "https://mealti-38fed.web.app/"
           },
           "description": "React-Native로 제작한 Mealti를 웹으로 재탄생한 나만의 식비 가계부입니다.",
           "startDate": "2023.03",
           "endDate": "",
           "which": [
             "1인 프로젝트로 진행중입니다.",
-            "React-Qeury를 사용하여 가계부 입력 시 화면의 전환 없이 달력에 가격이 추가된 금액이 나오도록 하였습니다.",
+            "React-Query를 사용하여 가계부 입력 시 화면의 전환 없이 달력에 가격이 추가된 금액이 나오도록 하였습니다.",
             "사진의 업로드와 데이터 관리 모두 Firebase를 통하여 작업하였습니다.",
-            "외부 라이브러리를 사용하지 않고, 모달창으로 세부 페이지를 관리하여 프로젝트의 의존성을 낮추고 코드의 가독성을 높였습니다."
+            "외부 라이브러리를 사용하지 않고, 모달창으로 세부 페이지를 관리하여 프로젝트의 의존성을 낮추고 코드의 가독성을 높였습니다.",
+            "Firebase hosting을 사용하여 배포하였습니다."
           ],
           "techStack": ["TypeScript", "Next.js", "Styled-Components", "React-Query", "Firebase"]
         }
