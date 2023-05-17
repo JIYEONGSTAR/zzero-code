@@ -1,6 +1,7 @@
 import { render, screen } from '@testing-library/react';
 
 import { data as headerData } from '../../../_content/Header';
+import { data as introData } from '../../../_content/Intro';
 import { data as otherExperienceDate } from '../../../_content/Other-Experience';
 import { data as skillsData } from '../../../_content/Skills';
 import { data as workExperienceData } from '../../../_content/Work-Experience';
@@ -15,6 +16,7 @@ describe('resume - pages - index', () => {
     render(
       <Resume
         header={headerData}
+        intro={introData}
         workExperience={workExperienceData}
         otherExperience={otherExperienceDate}
         skills={skillsData}

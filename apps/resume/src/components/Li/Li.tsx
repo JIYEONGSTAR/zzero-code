@@ -7,9 +7,8 @@ export default styled.li<{ theme: NextUITheme | undefined }>`
 
   &::before {
     content: '';
-    position: absolute;
     display: inline-block;
-    top: 50%;
+    top: 0;
     left: 0;
     transform: translate(-300%, -50%);
     width: 5px;
